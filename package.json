@@ -1,0 +1,19 @@
+{
+  "name": "Crystal-Atom",
+  "main": "./lib/crystal-atom",
+  "version": "0.0.1",
+  "description": "Crystal plugin for Atom",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "crystal-atom:toggle"
+  },
+  "repository": "https://github.com/CallmeNezha/Crystal-Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+
+  }
+
+}
